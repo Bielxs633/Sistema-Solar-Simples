@@ -17,3 +17,10 @@ Este projeto consiste em uma visualização simples do **Sistema Solar**, repres
 - Representação simplificada dos planetas e suas órbitas
 
 ---
+
+## Tecnologias utilizadas
+1. HTML
+2. CSS
+3. JavaScript
+4. Git
+
