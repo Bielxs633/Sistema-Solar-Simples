@@ -12,15 +12,16 @@ Este projeto consiste em uma visualização simples do **Sistema Solar**, repres
 ---
 
 ## Funcionalidades
-- Visualização simplificada dos planetas do Sistema Solar
-- Movimento orbital animado dos planetas ao redor do Sol
-- Representação simplificada dos planetas e suas órbitas
+1. Visualização simplificada dos planetas do Sistema Solar
+2. Movimento orbital animado dos planetas ao redor do Sol
+3. Representação simplificada dos planetas e suas órbitas
 
 ---
 
 ## Tecnologias utilizadas
-1. HTML
-2. CSS
-3. JavaScript
-4. Git
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Markdown**
+- **Git**
 
