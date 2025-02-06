@@ -4,6 +4,8 @@
 
 <img src="./assets/img/Sistema-Solar.gif" width="500">
 
+![image](https://github.com/user-attachments/assets/efe5f9c0-abeb-4dbd-abca-d31fe74431b3)
+
 ---
 
 ## Sobre
