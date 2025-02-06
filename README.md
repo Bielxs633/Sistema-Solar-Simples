@@ -2,7 +2,7 @@
 
 [Gabriel Soares](https://www.linkedin.com/in/gabriel-soares-3098782b0/)
 
-![image](https://github.com/user-attachments/assets/5dd7b8a5-9007-44af-8b03-47df30103fd3)
+<img src="./assets/img/Sistema-Solar.gif" width="500">
 
 ---
 
